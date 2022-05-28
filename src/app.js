@@ -41,6 +41,5 @@ app.listen(port , () =>{
 })
 
 
-
 // nodemon src/app.js      used to run app.js 
 // nodemon src/app.js -e js, hbs      used to run app.js and also all extensions javascript and hbs files
