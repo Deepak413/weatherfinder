@@ -1,0 +1,20 @@
+
+.main_header_right figure{
+    /* background-color: aliceblue; */
+    width: 50%;
+    margin-left: 10rem;
+}
+/* .main_header_right figure img{
+    filter: drop-shadow(0 0.5rem 1rem rgba(0 0 0 0.3));
+} */
+
+.main_header_left{
+    height: 50rem;
+    /* border: 2px solid red; */
+    display: flex;
+    padding-top: 20rem;
+    padding-left: 8rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
