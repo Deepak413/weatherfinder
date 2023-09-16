@@ -5,6 +5,8 @@ Developed a responsive weather application to check current weather and check fo
 # weblink : 
 
 Screenshots of Website: 
+![Screenshot (472)](https://github.com/Deepak413/weatherfinder/assets/98450154/ab450e72-b3bd-4835-bee5-72ecfeb3183e)
+
 
 ![Screenshot (472)](https://github.com/Deepak413/weatherfinder/assets/98450154/bd6d7a16-3c5b)
 ![Screenshot (478)](https://github.com/Deepak413/weatherfinder/assets/98450154/f88a46da-7dfc-48c8-9e1b-9abbc66a752b)
